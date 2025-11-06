@@ -20,8 +20,8 @@ http:
 
 script-providers:
   smile_bili_json:
-    url: https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-json.js
+    url: https://raw.githubusercontent.com/N1body/rules/master/js/bilibili-json.js
     interval: 86400
   smile_bili_proto:
-    url: https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-proto.js
+    url: https://raw.githubusercontent.com/N1body/rules/master/js/bilibili-proto.js
     interval: 86400
